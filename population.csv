@@ -1,4 +1,4 @@
-Country/Territory,Year,Population
+Country,Year,Population
 Aruba,1960,54208
 Aruba,1961,55434
 Aruba,1962,56234
@@ -7433,65 +7433,65 @@ St. Kitts and Nevis,2015,51204
 St. Kitts and Nevis,2016,51629
 St. Kitts and Nevis,2017,52036
 St. Kitts and Nevis,2018,52438
-"Korea, Rep.",1960,25012374
-"Korea, Rep.",1961,25765673
-"Korea, Rep.",1962,26513030
-"Korea, Rep.",1963,27261747
-"Korea, Rep.",1964,27984155
-"Korea, Rep.",1965,28704674
-"Korea, Rep.",1966,29435571
-"Korea, Rep.",1967,30130983
-"Korea, Rep.",1968,30838302
-"Korea, Rep.",1969,31544266
-"Korea, Rep.",1970,32240827
-"Korea, Rep.",1971,32882704
-"Korea, Rep.",1972,33505406
-"Korea, Rep.",1973,34103149
-"Korea, Rep.",1974,34692266
-"Korea, Rep.",1975,35280725
-"Korea, Rep.",1976,35848523
-"Korea, Rep.",1977,36411795
-"Korea, Rep.",1978,36969185
-"Korea, Rep.",1979,37534236
-"Korea, Rep.",1980,38123775
-"Korea, Rep.",1981,38723248
-"Korea, Rep.",1982,39326352
-"Korea, Rep.",1983,39910403
-"Korea, Rep.",1984,40405956
-"Korea, Rep.",1985,40805744
-"Korea, Rep.",1986,41213674
-"Korea, Rep.",1987,41621690
-"Korea, Rep.",1988,42031247
-"Korea, Rep.",1989,42449038
-"Korea, Rep.",1990,42869283
-"Korea, Rep.",1991,43295704
-"Korea, Rep.",1992,43747962
-"Korea, Rep.",1993,44194628
-"Korea, Rep.",1994,44641540
-"Korea, Rep.",1995,45092991
-"Korea, Rep.",1996,45524681
-"Korea, Rep.",1997,45953580
-"Korea, Rep.",1998,46286503
-"Korea, Rep.",1999,46616677
-"Korea, Rep.",2000,47008111
-"Korea, Rep.",2001,47370164
-"Korea, Rep.",2002,47644736
-"Korea, Rep.",2003,47892330
-"Korea, Rep.",2004,48082519
-"Korea, Rep.",2005,48184561
-"Korea, Rep.",2006,48438292
-"Korea, Rep.",2007,48683638
-"Korea, Rep.",2008,49054708
-"Korea, Rep.",2009,49307835
-"Korea, Rep.",2010,49554112
-"Korea, Rep.",2011,49936638
-"Korea, Rep.",2012,50199853
-"Korea, Rep.",2013,50428893
-"Korea, Rep.",2014,50746659
-"Korea, Rep.",2015,51014947
-"Korea, Rep.",2016,51217803
-"Korea, Rep.",2017,51361911
-"Korea, Rep.",2018,51585058
+South Korea,1960,25012374
+South Korea,1961,25765673
+South Korea,1962,26513030
+South Korea,1963,27261747
+South Korea,1964,27984155
+South Korea,1965,28704674
+South Korea,1966,29435571
+South Korea,1967,30130983
+South Korea,1968,30838302
+South Korea,1969,31544266
+South Korea,1970,32240827
+South Korea,1971,32882704
+South Korea,1972,33505406
+South Korea,1973,34103149
+South Korea,1974,34692266
+South Korea,1975,35280725
+South Korea,1976,35848523
+South Korea,1977,36411795
+South Korea,1978,36969185
+South Korea,1979,37534236
+South Korea,1980,38123775
+South Korea,1981,38723248
+South Korea,1982,39326352
+South Korea,1983,39910403
+South Korea,1984,40405956
+South Korea,1985,40805744
+South Korea,1986,41213674
+South Korea,1987,41621690
+South Korea,1988,42031247
+South Korea,1989,42449038
+South Korea,1990,42869283
+South Korea,1991,43295704
+South Korea,1992,43747962
+South Korea,1993,44194628
+South Korea,1994,44641540
+South Korea,1995,45092991
+South Korea,1996,45524681
+South Korea,1997,45953580
+South Korea,1998,46286503
+South Korea,1999,46616677
+South Korea,2000,47008111
+South Korea,2001,47370164
+South Korea,2002,47644736
+South Korea,2003,47892330
+South Korea,2004,48082519
+South Korea,2005,48184561
+South Korea,2006,48438292
+South Korea,2007,48683638
+South Korea,2008,49054708
+South Korea,2009,49307835
+South Korea,2010,49554112
+South Korea,2011,49936638
+South Korea,2012,50199853
+South Korea,2013,50428893
+South Korea,2014,50746659
+South Korea,2015,51014947
+South Korea,2016,51217803
+South Korea,2017,51361911
+South Korea,2018,51585058
 Kuwait,1960,269026
 Kuwait,1961,300581
 Kuwait,1962,337346
@@ -11386,65 +11386,65 @@ Puerto Rico,2015,3473232
 Puerto Rico,2016,3406672
 Puerto Rico,2017,3325286
 Puerto Rico,2018,3193354
-"Korea, Dem. People's Rep.",1960,11424189
-"Korea, Dem. People's Rep.",1961,11665592
-"Korea, Dem. People's Rep.",1962,11871726
-"Korea, Dem. People's Rep.",1963,12065468
-"Korea, Dem. People's Rep.",1964,12282417
-"Korea, Dem. People's Rep.",1965,12547524
-"Korea, Dem. People's Rep.",1966,12864947
-"Korea, Dem. People's Rep.",1967,13222703
-"Korea, Dem. People's Rep.",1968,13609976
-"Korea, Dem. People's Rep.",1969,14010339
-"Korea, Dem. People's Rep.",1970,14410391
-"Korea, Dem. People's Rep.",1971,14809518
-"Korea, Dem. People's Rep.",1972,15207765
-"Korea, Dem. People's Rep.",1973,15593353
-"Korea, Dem. People's Rep.",1974,15952077
-"Korea, Dem. People's Rep.",1975,16274737
-"Korea, Dem. People's Rep.",1976,16554744
-"Korea, Dem. People's Rep.",1977,16796568
-"Korea, Dem. People's Rep.",1978,17015984
-"Korea, Dem. People's Rep.",1979,17235668
-"Korea, Dem. People's Rep.",1980,17472144
-"Korea, Dem. People's Rep.",1981,17731229
-"Korea, Dem. People's Rep.",1982,18008568
-"Korea, Dem. People's Rep.",1983,18298212
-"Korea, Dem. People's Rep.",1984,18590142
-"Korea, Dem. People's Rep.",1985,18877226
-"Korea, Dem. People's Rep.",1986,19156791
-"Korea, Dem. People's Rep.",1987,19431992
-"Korea, Dem. People's Rep.",1988,19708316
-"Korea, Dem. People's Rep.",1989,19993757
-"Korea, Dem. People's Rep.",1990,20293057
-"Korea, Dem. People's Rep.",1991,20609151
-"Korea, Dem. People's Rep.",1992,20937407
-"Korea, Dem. People's Rep.",1993,21265832
-"Korea, Dem. People's Rep.",1994,21577979
-"Korea, Dem. People's Rep.",1995,21862300
-"Korea, Dem. People's Rep.",1996,22113428
-"Korea, Dem. People's Rep.",1997,22335263
-"Korea, Dem. People's Rep.",1998,22536754
-"Korea, Dem. People's Rep.",1999,22731470
-"Korea, Dem. People's Rep.",2000,22929078
-"Korea, Dem. People's Rep.",2001,23132982
-"Korea, Dem. People's Rep.",2002,23339453
-"Korea, Dem. People's Rep.",2003,23542434
-"Korea, Dem. People's Rep.",2004,23732740
-"Korea, Dem. People's Rep.",2005,23904167
-"Korea, Dem. People's Rep.",2006,24054866
-"Korea, Dem. People's Rep.",2007,24188330
-"Korea, Dem. People's Rep.",2008,24310143
-"Korea, Dem. People's Rep.",2009,24428340
-"Korea, Dem. People's Rep.",2010,24548840
-"Korea, Dem. People's Rep.",2011,24673392
-"Korea, Dem. People's Rep.",2012,24800638
-"Korea, Dem. People's Rep.",2013,24929500
-"Korea, Dem. People's Rep.",2014,25057793
-"Korea, Dem. People's Rep.",2015,25183832
-"Korea, Dem. People's Rep.",2016,25307665
-"Korea, Dem. People's Rep.",2017,25429816
-"Korea, Dem. People's Rep.",2018,25549606
+North Korea,1960,11424189
+North Korea,1961,11665592
+North Korea,1962,11871726
+North Korea,1963,12065468
+North Korea,1964,12282417
+North Korea,1965,12547524
+North Korea,1966,12864947
+North Korea,1967,13222703
+North Korea,1968,13609976
+North Korea,1969,14010339
+North Korea,1970,14410391
+North Korea,1971,14809518
+North Korea,1972,15207765
+North Korea,1973,15593353
+North Korea,1974,15952077
+North Korea,1975,16274737
+North Korea,1976,16554744
+North Korea,1977,16796568
+North Korea,1978,17015984
+North Korea,1979,17235668
+North Korea,1980,17472144
+North Korea,1981,17731229
+North Korea,1982,18008568
+North Korea,1983,18298212
+North Korea,1984,18590142
+North Korea,1985,18877226
+North Korea,1986,19156791
+North Korea,1987,19431992
+North Korea,1988,19708316
+North Korea,1989,19993757
+North Korea,1990,20293057
+North Korea,1991,20609151
+North Korea,1992,20937407
+North Korea,1993,21265832
+North Korea,1994,21577979
+North Korea,1995,21862300
+North Korea,1996,22113428
+North Korea,1997,22335263
+North Korea,1998,22536754
+North Korea,1999,22731470
+North Korea,2000,22929078
+North Korea,2001,23132982
+North Korea,2002,23339453
+North Korea,2003,23542434
+North Korea,2004,23732740
+North Korea,2005,23904167
+North Korea,2006,24054866
+North Korea,2007,24188330
+North Korea,2008,24310143
+North Korea,2009,24428340
+North Korea,2010,24548840
+North Korea,2011,24673392
+North Korea,2012,24800638
+North Korea,2013,24929500
+North Korea,2014,25057793
+North Korea,2015,25183832
+North Korea,2016,25307665
+North Korea,2017,25429816
+North Korea,2018,25549606
 Portugal,1960,8857716
 Portugal,1961,8929316
 Portugal,1962,8993985
